@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - **Technologies**: Git, Qt, Django, OpenCv, Openegl, Matlab, servo, Ardoino, TPU.
 - **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, NLP, Cognitive Science.
 - I can fix any computer... even if the cpu is p4
+- Trading platform like: freqTrade, Ctrade, and Brokers API
 ## Connect with Me
 - you cant find me :)
 
