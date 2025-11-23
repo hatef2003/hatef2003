@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - Trading platforms like: FreqTrade, CTrade, and Brokers API  
 
 ## Connect with Me
-- University of Tehran, Lab number 101  
+- University of Tehran, Lab number -101  
