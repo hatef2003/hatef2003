@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Skills
 - **Programming Languages**: C++, C, Python, Verilog, Java  
 - **Technologies**: Git, Qt, Django, OpenCV, OpenGL, MATLAB, Servo, Arduino, TPU  
-- **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, NLP, Cognitive Science  
+- **Areas of Expertise**: Data Science, Full-Stack Development, Machine Learning, Computer Architecture, Hardwate Friendly Programming
 - I can fix any computer... even if the CPU is a Pentium 4  
 - Trading platforms like: FreqTrade, CTrade, and Brokers API  
 
